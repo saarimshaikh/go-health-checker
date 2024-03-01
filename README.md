@@ -10,12 +10,12 @@ A tiny tool that checks the given domain is down.
 **Get the repo.**
 
 ```bash
-go get github.com/AkhilSharma90/go-health-checker
+go get https://github.com/saarimshaikh/go-health-checker.git
 ```
 OR
 
 ```bash
-git clone github.com/AkhilSharma90/go-health-checker
+git clone https://github.com/saarimshaikh/go-health-checker.git
 ```
 and then CD into the project and run
 
